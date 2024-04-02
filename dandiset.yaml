@@ -28,28 +28,25 @@ assetsSummary:
   variableMeasured:
   - PlaneSegmentation
   - ProcessingModule
-citation: 'Sprague, Daniel; Eviatar Yemini (2023) NeuroPAL: Atlas of C. elegans neuron
+citation: 'Eviatar Yemini; Daniel Sprague (2024) NeuroPAL: Atlas of C. elegans neuron
   locations and colors in NeuroPAL worm (Version draft) [Data set]. DANDI archive.
   https://dandiarchive.org/dandiset/000715/draft'
 contributor:
-- affiliation: []
-  email: daniel.y.sprague@gmail.com
-  includeInCitation: true
-  name: Sprague, Daniel
-  roleName:
-  - dcite:ContactPerson
-  schemaKey: Person
-- affiliation:
-  - name: University of Massachusetts, Chan Medical School
-    schemaKey: Affiliation
-  email: evictor.yemini@umassmed.edu
+- email: evictor.yemini@umassmed.edu
   includeInCitation: true
   name: Eviatar Yemini
   roleName:
   - dcite:Author
   - dcite:Conceptualization
-  - dcite:Investigation
+  - dcite:DataCollector
   - dcite:Methodology
+  schemaKey: Person
+- email: Daniel.sprague@ucsf.edu
+  includeInCitation: true
+  name: Daniel Sprague
+  roleName:
+  - dcite:Author
+  - dcite:DataCurator
   schemaKey: Person
 dateCreated: '2023-11-20T22:09:13.916173+00:00'
 description: '10 original NeuroPAL datasets used to train the statistical atlas in
