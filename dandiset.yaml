@@ -50,7 +50,7 @@ contributor:
   - dcite:ContactPerson
   schemaKey: Person
 dateCreated: '2023-11-20T22:09:13.916173+00:00'
-datePublished: '2024-04-24T18:47:37.830904+00:00'
+datePublished: '2024-06-11T19:53:26.406652+00:00'
 description: '10 original NeuroPAL datasets used to train the statistical atlas in
   ''Statistical Atlas of C. elegans Neurons'' and ''NeuroPAL: A Multicolor Atlas for
   Whole-Brain Neuronal Identification in C. elegans.
@@ -62,19 +62,19 @@ id: DANDI:000715/draft
 identifier: DANDI:000715
 keywords: []
 license:
-- spdx:CC0-1.0
+- spdx:CC-BY-4.0
 manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/000715/versions/draft/assets/
 name: 'NeuroPAL: Atlas of C. elegans neuron locations and colors in NeuroPAL worm'
 protocol: []
 publishedBy:
-  endDate: '2024-04-24T18:47:37.830904+00:00'
-  id: urn:uuid:30669eec-903a-4708-bc66-c9ef9d57ea67
+  endDate: '2024-06-11T19:53:26.406652+00:00'
+  id: urn:uuid:58122841-0c8a-453c-95dc-1e10ef5dbe9a
   name: DANDI publish
   schemaKey: PublishActivity
-  startDate: '2024-04-24T18:47:37.830904+00:00'
+  startDate: '2024-06-11T19:53:26.406652+00:00'
   wasAssociatedWith:
-  - id: urn:uuid:17d1ea72-f1cc-4b39-96ce-3b234de6f8e2
+  - id: urn:uuid:795ba968-0063-4a5e-af73-9f07b9099dba
     identifier: RRID:SCR_017571
     name: DANDI API
     schemaKey: Software
