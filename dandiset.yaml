@@ -30,8 +30,8 @@ assetsSummary:
   - ProcessingModule
 citation: 'Yemini, Eviatar; Venkatachalam, Vivek; Lin, Albert; Varol, Erdem; Sprague,
   Daniel; Paninski, Liam; Samuel, Arivinthan; Hobert, Oliver (2024) NeuroPAL: Atlas
-  of C. elegans neuron locations and colors in NeuroPAL worm (Version draft) [Data
-  set]. DANDI archive. https://dandiarchive.org/dandiset/000715/draft'
+  of C. elegans neuron locations and colors in NeuroPAL worm (Version 0.240614.1942)
+  [Data set]. DANDI archive. https://doi.org/10.48324/dandi.000715/0.240614.1942'
 contributor:
 - email: evictor.yemini@umassmed.edu
   includeInCitation: true
@@ -82,27 +82,41 @@ contributor:
   - dcite:Investigation
   schemaKey: Person
 dateCreated: '2023-11-20T22:09:13.916173+00:00'
+datePublished: '2024-06-14T19:42:05.794661+00:00'
 description: '10 original NeuroPAL datasets used to train the statistical atlas in
   ''Statistical Atlas of C. elegans Neurons'' and ''NeuroPAL: A Multicolor Atlas for
   Whole-Brain Neuronal Identification in C. elegans.
 
 
   '
+doi: 10.48324/dandi.000715/0.240614.1942
 ethicsApproval: []
-id: DANDI:000715/draft
+id: DANDI:000715/0.240614.1942
 identifier: DANDI:000715
 keywords: []
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/000715/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/000715/0.240614.1942/assets.yaml
 name: 'NeuroPAL: Atlas of C. elegans neuron locations and colors in NeuroPAL worm'
 protocol: []
+publishedBy:
+  endDate: '2024-06-14T19:42:05.794661+00:00'
+  id: urn:uuid:32696339-c94d-406f-a260-8a545aa8e22d
+  name: DANDI publish
+  schemaKey: PublishActivity
+  startDate: '2024-06-14T19:42:05.794661+00:00'
+  wasAssociatedWith:
+  - id: urn:uuid:8e5a9021-77b5-48c8-9639-65fadc51e746
+    identifier: RRID:SCR_017571
+    name: DANDI API
+    schemaKey: Software
+    version: 0.1.0
 relatedResource: []
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.4
 studyTarget: []
-url: https://dandiarchive.org/dandiset/000715/draft
-version: draft
+url: https://dandiarchive.org/dandiset/000715/0.240614.1942
+version: 0.240614.1942
 wasGeneratedBy: []
