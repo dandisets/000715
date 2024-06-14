@@ -28,9 +28,10 @@ assetsSummary:
   variableMeasured:
   - PlaneSegmentation
   - ProcessingModule
-citation: 'Yemini, Eviatar; Sprague, Daniel (2024) NeuroPAL: Atlas of C. elegans neuron
-  locations and colors in NeuroPAL worm (Version draft) [Data set]. DANDI archive.
-  https://dandiarchive.org/dandiset/000715/draft'
+citation: 'Yemini, Eviatar; Venkatachalam, Vivek; Lin, Albert; Varol, Erdem; Sprague,
+  Daniel; Paninski, Liam; Samuel, Arivinthan; Hobert, Oliver (2024) NeuroPAL: Atlas
+  of C. elegans neuron locations and colors in NeuroPAL worm (Version draft) [Data
+  set]. DANDI archive. https://dandiarchive.org/dandiset/000715/draft'
 contributor:
 - email: evictor.yemini@umassmed.edu
   includeInCitation: true
@@ -41,6 +42,22 @@ contributor:
   - dcite:DataCollector
   - dcite:Methodology
   schemaKey: Person
+- includeInCitation: true
+  name: Venkatachalam, Vivek
+  roleName:
+  - dcite:ProjectMember
+  - dcite:Researcher
+  schemaKey: Person
+- includeInCitation: true
+  name: Lin, Albert
+  roleName:
+  - dcite:ProjectMember
+  schemaKey: Person
+- includeInCitation: true
+  name: Varol, Erdem
+  roleName:
+  - dcite:ProjectMember
+  schemaKey: Person
 - email: Daniel.sprague@ucsf.edu
   includeInCitation: true
   name: Sprague, Daniel
@@ -49,8 +66,22 @@ contributor:
   - dcite:DataCurator
   - dcite:ContactPerson
   schemaKey: Person
+- includeInCitation: true
+  name: Paninski, Liam
+  roleName:
+  - dcite:ProjectMember
+  schemaKey: Person
+- includeInCitation: true
+  name: Samuel, Arivinthan
+  roleName:
+  - dcite:ProjectMember
+  schemaKey: Person
+- includeInCitation: true
+  name: Hobert, Oliver
+  roleName:
+  - dcite:Investigation
+  schemaKey: Person
 dateCreated: '2023-11-20T22:09:13.916173+00:00'
-datePublished: '2024-06-11T19:53:26.406652+00:00'
 description: '10 original NeuroPAL datasets used to train the statistical atlas in
   ''Statistical Atlas of C. elegans Neurons'' and ''NeuroPAL: A Multicolor Atlas for
   Whole-Brain Neuronal Identification in C. elegans.
@@ -67,18 +98,6 @@ manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/000715/versions/draft/assets/
 name: 'NeuroPAL: Atlas of C. elegans neuron locations and colors in NeuroPAL worm'
 protocol: []
-publishedBy:
-  endDate: '2024-06-11T19:53:26.406652+00:00'
-  id: urn:uuid:58122841-0c8a-453c-95dc-1e10ef5dbe9a
-  name: DANDI publish
-  schemaKey: PublishActivity
-  startDate: '2024-06-11T19:53:26.406652+00:00'
-  wasAssociatedWith:
-  - id: urn:uuid:795ba968-0063-4a5e-af73-9f07b9099dba
-    identifier: RRID:SCR_017571
-    name: DANDI API
-    schemaKey: Software
-    version: 0.1.0
 relatedResource: []
 repository: https://dandiarchive.org
 schemaKey: Dandiset
