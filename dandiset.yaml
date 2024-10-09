@@ -33,7 +33,7 @@ citation: 'Yemini, Eviatar; Venkatachalam, Vivek; Lin, Albert; Varol, Erdem; Spr
   of C. elegans neuron locations and colors in NeuroPAL worm (Version draft) [Data
   set]. DANDI archive. https://dandiarchive.org/dandiset/000715/draft'
 contributor:
-- email: evictor.yemini@umassmed.edu
+- email: eviatar.yemini@umassmed.edu
   includeInCitation: true
   name: Yemini, Eviatar
   roleName:
@@ -41,6 +41,7 @@ contributor:
   - dcite:Conceptualization
   - dcite:DataCollector
   - dcite:Methodology
+  - dcite:ContactPerson
   schemaKey: Person
 - includeInCitation: true
   name: Venkatachalam, Vivek
@@ -62,9 +63,7 @@ contributor:
   includeInCitation: true
   name: Sprague, Daniel
   roleName:
-  - dcite:Author
   - dcite:DataCurator
-  - dcite:ContactPerson
   schemaKey: Person
 - includeInCitation: true
   name: Paninski, Liam
@@ -82,7 +81,7 @@ contributor:
   - dcite:Investigation
   schemaKey: Person
 dateCreated: '2023-11-20T22:09:13.916173+00:00'
-datePublished: '2024-06-14T19:42:05.794661+00:00'
+datePublished: '2024-10-09T15:14:13.133706+00:00'
 description: '10 original NeuroPAL datasets used to train the statistical atlas in
   ''Statistical Atlas of C. elegans Neurons'' and ''NeuroPAL: A Multicolor Atlas for
   Whole-Brain Neuronal Identification in C. elegans.
@@ -100,13 +99,13 @@ manifestLocation:
 name: 'NeuroPAL: Atlas of C. elegans neuron locations and colors in NeuroPAL worm'
 protocol: []
 publishedBy:
-  endDate: '2024-06-14T19:42:05.794661+00:00'
-  id: urn:uuid:32696339-c94d-406f-a260-8a545aa8e22d
+  endDate: '2024-10-09T15:14:13.133706+00:00'
+  id: urn:uuid:e54fe51c-1f4a-4fea-9056-06e49ad48646
   name: DANDI publish
   schemaKey: PublishActivity
-  startDate: '2024-06-14T19:42:05.794661+00:00'
+  startDate: '2024-10-09T15:14:13.133706+00:00'
   wasAssociatedWith:
-  - id: urn:uuid:8e5a9021-77b5-48c8-9639-65fadc51e746
+  - id: urn:uuid:d892d560-3ffd-4fb2-829f-757c51d8e1f2
     identifier: RRID:SCR_017571
     name: DANDI API
     schemaKey: Software
