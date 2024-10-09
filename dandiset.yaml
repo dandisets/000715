@@ -30,8 +30,8 @@ assetsSummary:
   - ProcessingModule
 citation: 'Yemini, Eviatar; Venkatachalam, Vivek; Lin, Albert; Varol, Erdem; Sprague,
   Daniel; Paninski, Liam; Samuel, Arivinthan; Hobert, Oliver (2024) NeuroPAL: Atlas
-  of C. elegans neuron locations and colors in NeuroPAL worm (Version draft) [Data
-  set]. DANDI archive. https://dandiarchive.org/dandiset/000715/draft'
+  of C. elegans neuron locations and colors in NeuroPAL worm (Version 0.241009.1514)
+  [Data set]. DANDI archive. https://doi.org/10.48324/dandi.000715/0.241009.1514'
 contributor:
 - email: eviatar.yemini@umassmed.edu
   includeInCitation: true
@@ -88,14 +88,15 @@ description: '10 original NeuroPAL datasets used to train the statistical atlas 
 
 
   '
+doi: 10.48324/dandi.000715/0.241009.1514
 ethicsApproval: []
-id: DANDI:000715/draft
+id: DANDI:000715/0.241009.1514
 identifier: DANDI:000715
 keywords: []
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/000715/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/000715/0.241009.1514/assets.yaml
 name: 'NeuroPAL: Atlas of C. elegans neuron locations and colors in NeuroPAL worm'
 protocol: []
 publishedBy:
@@ -115,6 +116,6 @@ repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.4
 studyTarget: []
-url: https://dandiarchive.org/dandiset/000715/draft
-version: draft
+url: https://dandiarchive.org/dandiset/000715/0.241009.1514
+version: 0.241009.1514
 wasGeneratedBy: []
